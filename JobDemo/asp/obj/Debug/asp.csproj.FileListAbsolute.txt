@@ -1,0 +1,7 @@
+C:\Users\nanin\source\repos\asp\asp\bin\Debug\asp.exe.config
+C:\Users\nanin\source\repos\asp\asp\bin\Debug\asp.exe
+C:\Users\nanin\source\repos\asp\asp\bin\Debug\asp.pdb
+C:\Users\nanin\source\repos\asp\asp\obj\Debug\asp.csprojAssemblyReference.cache
+C:\Users\nanin\source\repos\asp\asp\obj\Debug\asp.csproj.CoreCompileInputs.cache
+C:\Users\nanin\source\repos\asp\asp\obj\Debug\asp.exe
+C:\Users\nanin\source\repos\asp\asp\obj\Debug\asp.pdb

@@ -1,0 +1,7 @@
+C:\Users\nanin\source\repos\new\new\bin\Debug\@new.exe.config
+C:\Users\nanin\source\repos\new\new\bin\Debug\@new.exe
+C:\Users\nanin\source\repos\new\new\bin\Debug\@new.pdb
+C:\Users\nanin\source\repos\new\new\obj\Debug\new.csprojAssemblyReference.cache
+C:\Users\nanin\source\repos\new\new\obj\Debug\new.csproj.CoreCompileInputs.cache
+C:\Users\nanin\source\repos\new\new\obj\Debug\@new.exe
+C:\Users\nanin\source\repos\new\new\obj\Debug\@new.pdb
